@@ -4,8 +4,7 @@ post_title: Sample Page
 author: wealthmiq
 post_excerpt: ""
 layout: page
-permalink: >
-  https://conf.dbsprojects.ie/index.php/sample-page/
+permalink: https://conf.dbsprojects.ie/
 published: true
 post_date: 2020-08-06 13:33:15
 ---
