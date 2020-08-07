@@ -5,7 +5,7 @@ author: wealthmiq
 post_excerpt: ""
 layout: page
 permalink: >
-  https://conf.dbsprojects.ie/index.php/dashboard/
+  https://conf.dbsprojects.ie/index.php/dashboard-2/
 published: true
 post_date: 2020-08-07 08:33:57
 ---
